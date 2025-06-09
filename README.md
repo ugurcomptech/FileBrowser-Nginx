@@ -75,6 +75,15 @@ Tarayıcınızdan `http://sunucu-ip-adresi:8080` adresine gidin. İlk girişte k
 
 İlk girişten sonra admin şifresini mutlaka değiştirin. Dilerseniz FileBrowser'ı bir domain altına taşıyarak Nginx üzerinden HTTPS ile erişim sağlayabilirsiniz.
 
+Aşağıdaki sayfa üzerinden şifrenizi değiştirebilirsiniz.
+
+![image](https://github.com/user-attachments/assets/10bd4ebe-4b73-4cc4-890c-055c0292d5f8)
+
+
+## Not
+
+FileBrowserı yayınlamış olduğunuz portu sadece kendi IP adresiniz için erişime izin vermeniz önerilir. WAF gibi koruma sistemleri kullanıyor iseniz FileBrowser için oluşturmuş olduğunuz domain adresine sadece kendi IP adresine erişimi açık tutunuz.
+
 ## 📜 Lisans
 
 Bu proje açık kaynaklıdır. [MIT](LICENSE) lisansı ile lisanslanmıştır.

@@ -83,7 +83,3 @@ Aşağıdaki sayfa üzerinden şifrenizi değiştirebilirsiniz.
 ## Not
 
 FileBrowserı yayınlamış olduğunuz portu sadece kendi IP adresiniz için erişime izin vermeniz önerilir. WAF gibi koruma sistemleri kullanıyor iseniz FileBrowser için oluşturmuş olduğunuz domain adresine sadece kendi IP adresine erişimi açık tutunuz.
-
-## 📜 Lisans
-
-Bu proje açık kaynaklıdır. [MIT](LICENSE) lisansı ile lisanslanmıştır.
